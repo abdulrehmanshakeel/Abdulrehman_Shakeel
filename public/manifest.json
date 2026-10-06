@@ -1,0 +1,17 @@
+{
+  "name": "M. Abdul Rehman Shakeel | AI/ML Engineer & AI Automation Developer",
+  "short_name": "Abdul Rehman",
+  "description": "Portfolio of M. Abdul Rehman Shakeel — AI/ML Engineer, AI Automation Developer and Full-Stack Developer building intelligent applications, AI agents, automation workflows and modern web solutions.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0B0B0B",
+  "theme_color": "#2563EB",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
