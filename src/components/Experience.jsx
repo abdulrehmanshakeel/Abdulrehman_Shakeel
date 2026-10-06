@@ -2,6 +2,21 @@ import { motion } from 'framer-motion';
 
 const experiences = [
   {
+    role: 'Python Developer',
+    company: 'Quarksol',
+    location: 'Faisalabad, Pakistan',
+    period: '08/2025 – Present',
+    badge: 'Web Scraping & API Development',
+    accent: '#0891b2',
+    points: [
+      'Developed robust web scraping crawlers and automated data extraction pipelines using Python, Scrapy, Selenium, Playwright, and Beautiful Soup.',
+      'Architected and implemented high-performance RESTful APIs and backend services for seamless data ingestion, transformation, and client integration.',
+      'Overcame complex anti-bot protection mechanisms, dynamic JavaScript rendering, and proxy rotation for uninterrupted large-scale data harvesting.',
+      'Engineered structured database pipelines and automated data workflows to deliver clean, production-ready data feeds.',
+    ],
+    tech: ['Python', 'Web Scraping', 'API Development', 'REST APIs', 'FastAPI / Django', 'Playwright', 'Selenium', 'Beautiful Soup', 'Scrapy', 'Data Pipelines'],
+  },
+  {
     role: 'AI Instructor',
     company: 'Sahil Tech (NAVTTC)',
     location: 'Faisalabad, Pakistan',
@@ -87,7 +102,7 @@ const Experience = () => {
             Work Experience
           </h2>
           <p className="text-sm md:text-base text-slate-500 max-w-xl leading-relaxed">
-            Practical industry experience in AI/ML training, hands-on Python development, data engineering, and institutional leadership.
+            Practical industry experience in Python development, web scraping, API engineering, AI/ML training, and institutional leadership.
           </p>
         </motion.div>
 

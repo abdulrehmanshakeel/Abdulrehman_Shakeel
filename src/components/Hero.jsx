@@ -4,16 +4,16 @@ import 'aos/dist/aos.css';
 import heroVideo from '../assets/hero video/herovideo.mp4';
 
 const techBadges = [
+  'Python Developer @ Quarksol',
+  'Web Scraping & APIs',
   'Full Stack',
-  'Web Scraping',
   'AI & ML',
   'AI Agents',
   'Android & Flutter',
-  'Python & Django',
+  'FastAPI & Django',
   'React',
   'Firebase',
   'LangGraph',
-  'AI Automation',
 ];
 
 const Hero = () => {
@@ -82,7 +82,7 @@ const Hero = () => {
             data-aos-delay="150"
             className="text-[#60A5FA] text-base sm:text-lg md:text-xl font-bold mb-4 tracking-tight"
           >
-            Full-Stack Systems · Web Scraping · AI &amp; Agents · Mobile Apps
+            Python Developer at Quarksol · Web Scraping &amp; APIs · AI &amp; Full-Stack
           </h2>
 
           <p 
@@ -90,7 +90,7 @@ const Hero = () => {
             data-aos-delay="200"
             className="text-white/85 text-sm sm:text-base md:text-lg font-normal mb-6 max-w-xl leading-relaxed drop-shadow-sm"
           >
-            I build modern full-stack web applications, automated web scraping crawlers, AI/ML models, autonomous agentic workflows, and high-performance Android mobile apps with Flutter &amp; Firebase.
+            Python Developer at Quarksol specializing in automated web scraping crawlers, REST API development, AI/ML pipelines, and high-performance digital systems.
           </p>
 
           {/* Technology Badges */}

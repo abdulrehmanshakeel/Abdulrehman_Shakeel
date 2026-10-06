@@ -28,7 +28,7 @@ const About = () => {
               </div>
               <div className="pt-3 pb-1 text-center">
                 <p className="text-slate-900 font-black text-sm tracking-tight">M. Abdul Rehman Shakeel</p>
-                <p className="text-[#2563EB] text-xs font-semibold">AI/ML &amp; Full Stack Developer</p>
+                <p className="text-[#2563EB] text-xs font-semibold">Python Developer @ Quarksol</p>
               </div>
             </div>
           </div>
@@ -40,11 +40,11 @@ const About = () => {
           </h2>
 
           <p className="text-base md:text-lg font-bold mb-5 leading-relaxed max-w-3xl text-slate-800">
-            A Computer Science graduate with proven expertise in <span className="text-[#2563EB]">Android App Development (Flutter &amp; Firebase)</span>, <span className="text-[#2563EB]">Artificial Intelligence &amp; Machine Learning</span>, full-stack systems, and autonomous <span className="text-[#2563EB]">AI Agents</span>.
+            A Computer Science graduate and <span className="text-[#2563EB]">Python Developer at Quarksol</span> with specialized expertise in <span className="text-[#2563EB]">Web Scraping &amp; API Development</span>, <span className="text-[#2563EB]">Artificial Intelligence &amp; Machine Learning</span>, and mobile systems.
           </p>
 
           <p className="text-sm md:text-base font-normal mb-5 leading-relaxed max-w-3xl text-slate-600">
-            I have hands-on experience developing robust Android mobile apps with <strong className="text-slate-800">Flutter, Dart, Firebase Auth, Cloud Firestore, and Realtime Database</strong>. In parallel, I engineer intelligent applications integrating <strong className="text-slate-800">Django, React, Python, LangGraph, Scikit-learn, TensorFlow</strong>, and real-time architectures.
+            At Quarksol, I develop automated web scraping crawlers and scalable REST APIs using <strong className="text-slate-800">Python, Scrapy, Playwright, Selenium, and Beautiful Soup</strong>. In parallel, I engineer intelligent applications and mobile solutions integrating <strong className="text-slate-800">Django, React, Flutter, Firebase, LangGraph, and Scikit-learn</strong>.
           </p>
 
           <p className="text-sm md:text-base font-normal mb-6 leading-relaxed max-w-3xl text-slate-600">
