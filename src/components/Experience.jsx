@@ -32,7 +32,7 @@ const experiences = [
     tech: ['Python', 'Machine Learning', 'Data Analysis', 'Scikit-learn', 'Model Building'],
   },
   {
-    role: 'Python Programming Intern',
+    role: 'Python Developer',
     company: 'Cosmicode',
     location: 'Remote',
     period: '07/2025 – 10/2025',
